@@ -1,0 +1,22 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h091237557/WebsocketServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h091237557/WebsocketServer/issues"
+  },
+  "homepage": "https://github.com/h091237557/WebsocketServer#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
